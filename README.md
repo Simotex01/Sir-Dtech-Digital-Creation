@@ -1,6 +1,7 @@
 # Sir-Dtech-Digital-Creation
 # Hello, I'm Gabriel Simon Uche
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com"><img src="https://![facebook-scalable-vector-graphics-icon-facebook-logo-png-b2bd60751e410d1a8e8c60a1a74d6f99](https://github.com/user-attachments/assets/4e2257bd-d597-4afa-8c65-22291ff38ce6)
+" /></a>
 
 [Brief Introduction - Remove this afterwards]
 

@@ -1,7 +1,7 @@
 # Sir-Dtech-Digital-Creation
 # Hello, I'm Gabriel Simon Uche
-<a href="https://facebook.com"><img src="https://![facebook-scalable-vector-graphics-icon-facebook-logo-png-b2bd60751e410d1a8e8c60a1a74d6f99](https://github.com/user-attachments/assets/4e2257bd-d597-4afa-8c65-22291ff38ce6)
-" /></a>
+<img src="https://web.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fimages.app.goo.gl%2FgJhAazzpaRCWL5896&_rdc=1&_rdr#"/>
+
 
 [Brief Introduction - Remove this afterwards]
 
